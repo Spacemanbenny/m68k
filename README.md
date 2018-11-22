@@ -1,6 +1,8 @@
 m68k
 ====
 
+Forked from https://github.com/tonyheadford/m68k to Maven-ize the project.
+
 This is my Motorola 680x0 emulator written in Java. This is the designed to be a modular cpu component for my Java based Amiga emulator project *Miggy*.  This project was originally hosted on Google code but I'm now moving it to GitHub.
 
 Emulation
