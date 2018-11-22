@@ -1,3 +1,11 @@
-*.iws
-build/*
-
+/target/
+/.settings/
+/.idea/*
+/build/
+/.apt_generated/
+/bin/
+.classpath
+.project
+.springBeans
+.factorypath
+*.iml
